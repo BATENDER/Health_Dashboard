@@ -1,0 +1,19 @@
+:root {
+    --fundo: #d5dbeb;
+    --branco: whitesmoke;
+    --cinza-escuro: #dde9e8;
+    --cinza-claro: rgb(231, 243, 243);
+    --cinza: #a2a6ae;
+    --preto: #17181a;
+}
+
+#conteudo {
+    width: 70%;
+    height: 80%;
+    border-radius: 25px;
+    background-color: var(--branco);
+}
+
+main div p {
+    line-height: 75px;
+}
